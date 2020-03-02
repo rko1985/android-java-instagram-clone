@@ -14,12 +14,14 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Switch;
 
+import com.parse.GetCallback;
 import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
 import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
@@ -46,6 +48,19 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //      }
 //    });
+
+
+
+    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
+    query.getInBackground("uICn4H1KYf", new GetCallback<ParseObject>() {
+      @Override
+      public void done(ParseObject object, ParseException e) {
+        if(e == null && object != null){
+          Log.i("username", object.getString("username"));
+          Log.i("score", Integer.toString(object.getInt("score")));
+        }
+      }
+    });
 
 
     
