@@ -38,20 +38,31 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    ParseUser user = new ParseUser();
-    user.setUsername("nick");
-    user.setPassword("myPass");
-    user.signUpInBackground(new SignUpCallback() {
-        @Override
-        public void done(ParseException e) {
-            if(e == null){
-                //Ok
-                Log.i("Sign Up Ok!", "We did it!");
-            } else {
-                e.printStackTrace();
-            }
-        }
-    });
+//    ParseUser user = new ParseUser();
+//    user.setUsername("nick");
+//    user.setPassword("myPass");
+//    user.signUpInBackground(new SignUpCallback() {
+//        @Override
+//        public void done(ParseException e) {
+//            if(e == null){
+//                //Ok
+//                Log.i("Sign Up Ok!", "We did it!");
+//            } else {
+//                e.printStackTrace();
+//            }
+//        }
+//    });
+
+      ParseUser.logInInBackground("nick", "myPass123", new LogInCallback() {
+          @Override
+          public void done(ParseUser user, ParseException e) {
+              if(user != null){
+                  Log.i("Success", "We logged in");
+              } else {
+                  e.printStackTrace();
+              }
+          }
+      });
     
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }

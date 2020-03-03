@@ -5,28 +5,23 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
     plugin-version="3.0.1"
-    timestamp="1583254318541"
+    timestamp="1583255212459"
     token="-6497308195253793020"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="532" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="75" />
+        duration="0" />
     <task
         name="verifier"
-        duration="8" />
-
-    <artifact
-        location="C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
@@ -71,12 +66,16 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="IMPLEMENTED_INTERFACES_CHANGE"
-        timestamp="1583254318541"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1583254564783"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1583255212459"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
