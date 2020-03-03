@@ -7,19 +7,19 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1583256144628"
+    timestamp="1583256246248"
     token="-6497308195253793020"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="660" />
+        duration="511" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="46" />
+        duration="35" />
     <task
         name="verifier"
         duration="4" />
@@ -72,7 +72,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1583256144628"
+        timestamp="1583256246248"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"

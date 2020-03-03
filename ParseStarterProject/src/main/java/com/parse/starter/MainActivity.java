@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
 //          }
 //      });
 
+      ParseUser.logOut();
+
       if(ParseUser.getCurrentUser() != null){
           Log.i("Signed in", ParseUser.getCurrentUser().getUsername());
       } else {
