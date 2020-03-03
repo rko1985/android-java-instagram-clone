@@ -38,6 +38,10 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
     ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
+
+    query.whereEqualTo("username", "sean");
+    query.setLimit(1);
+
     query.findInBackground(new FindCallback<ParseObject>() {
         @Override
         public void done(List<ParseObject> objects, ParseException e) {
