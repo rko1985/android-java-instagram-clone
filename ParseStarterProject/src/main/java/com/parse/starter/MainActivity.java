@@ -53,16 +53,24 @@ public class MainActivity extends AppCompatActivity {
 //        }
 //    });
 
-      ParseUser.logInInBackground("nick", "myPass123", new LogInCallback() {
-          @Override
-          public void done(ParseUser user, ParseException e) {
-              if(user != null){
-                  Log.i("Success", "We logged in");
-              } else {
-                  e.printStackTrace();
-              }
-          }
-      });
+//      ParseUser.logInInBackground("nick", "myPass123", new LogInCallback() {
+//          @Override
+//          public void done(ParseUser user, ParseException e) {
+//              if(user != null){
+//                  Log.i("Success", "We logged in");
+//              } else {
+//                  e.printStackTrace();
+//              }
+//          }
+//      });
+
+      if(ParseUser.getCurrentUser() != null){
+          Log.i("Signed in", ParseUser.getCurrentUser().getUsername());
+      } else {
+          Log.i("no luck", "not signed in...");
+      }
+
+
     
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
