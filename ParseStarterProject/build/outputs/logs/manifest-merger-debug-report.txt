@@ -8,9 +8,8 @@ MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\russe\.gradle\
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\1daeb0d106261f7e7e79387a0d1239bf\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\f677d98bedb337002a0680eae481489c\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2a19c9deebf305177130c41cc29a17d1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\17c99777b5ad2c679f222643d38675c9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a777ed889d3ab64ffd88f72a7348e928\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\2d996fbd7884c5b1b49503a1ae47db29\AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\4ddb5739b856f885b462316b15ddf636\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\d40fb95bba8eaa8e907ae576e188c826\AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\55d3140d11340b7febac2998bdb7caaa\AndroidManifest.xml:16:1-28:12
@@ -57,8 +56,14 @@ MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\russe\.gradle\c
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\06972c985a4f1a9dfae884f83ad30424\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\ff4be85d5b222244ed1d86791c022704\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0de53b4f7b680745e681c56bc0ee3b6b\AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\2ef9964d5430a179ebe12332b53c1071\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\56cc859b4ab37dff93ff157a146104ee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
@@ -144,10 +149,8 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\f677d98bedb337002a0680eae481489c\AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2a19c9deebf305177130c41cc29a17d1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2a19c9deebf305177130c41cc29a17d1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a777ed889d3ab64ffd88f72a7348e928\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a777ed889d3ab64ffd88f72a7348e928\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\d40fb95bba8eaa8e907ae576e188c826\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\d40fb95bba8eaa8e907ae576e188c826\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\55d3140d11340b7febac2998bdb7caaa\AndroidManifest.xml:27:5-20
@@ -222,10 +225,22 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\russe\.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\ff4be85d5b222244ed1d86791c022704\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0de53b4f7b680745e681c56bc0ee3b6b\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0de53b4f7b680745e681c56bc0ee3b6b\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\2ef9964d5430a179ebe12332b53c1071\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\2ef9964d5430a179ebe12332b53c1071\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\56cc859b4ab37dff93ff157a146104ee\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\56cc859b4ab37dff93ff157a146104ee\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-41
 	android:icon
@@ -264,12 +279,10 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\f677d98bedb337002a0680eae481489c\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2a19c9deebf305177130c41cc29a17d1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\2a19c9deebf305177130c41cc29a17d1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\17c99777b5ad2c679f222643d38675c9\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\17c99777b5ad2c679f222643d38675c9\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a777ed889d3ab64ffd88f72a7348e928\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a777ed889d3ab64ffd88f72a7348e928\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\2d996fbd7884c5b1b49503a1ae47db29\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\2d996fbd7884c5b1b49503a1ae47db29\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\4ddb5739b856f885b462316b15ddf636\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\4ddb5739b856f885b462316b15ddf636\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\d40fb95bba8eaa8e907ae576e188c826\AndroidManifest.xml:23:5-42
@@ -362,14 +375,26 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\russe\.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\ff4be85d5b222244ed1d86791c022704\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0de53b4f7b680745e681c56bc0ee3b6b\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0de53b4f7b680745e681c56bc0ee3b6b\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\2ef9964d5430a179ebe12332b53c1071\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\2ef9964d5430a179ebe12332b53c1071\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\56cc859b4ab37dff93ff157a146104ee\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\56cc859b4ab37dff93ff157a146104ee\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ba57cd24561aab23f868dba2cdb6dfd6\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
@@ -390,6 +415,28 @@ service#com.google.android.gms.cast.framework.ReconnectionService
 ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\1daeb0d106261f7e7e79387a0d1239bf\AndroidManifest.xml:8:9-92
 	android:name
 		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\1daeb0d106261f7e7e79387a0d1239bf\AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\f28a7603feaacf992bb9a0dbaea17f35\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\c61dff68c919bb5c33e6af57bd719f67\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\825700a5030a17c29a8261c19b278de3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\357a3ea36681dbe8ea0074df2f1acab7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\7943826369894f7c33efa1b7c8dd910b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\325a65472eaba7f3bc98cbefdb65b5db\AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\d40fb95bba8eaa8e907ae576e188c826\AndroidManifest.xml:26:9-29:64
 	android:configChanges
