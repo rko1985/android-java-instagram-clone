@@ -45,6 +45,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     EditText usernameEditText;
     EditText passwordEditText;
 
+    public void showUserList(){
+        Intent intent = new Intent(getApplicationContext(), UserListActivity.class);
+        startActivity(intent);
+    }
+
     @Override
     public boolean onKey(View view, int i, KeyEvent keyEvent) {
 
@@ -93,6 +98,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     public void done(ParseException e) {
                         if (e == null) {
                             Log.i("Signup", "Success");
+                            showUserList();
                         } else {
                             Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                         }
@@ -105,6 +111,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     public void done(ParseUser user, ParseException e) {
                         if(user != null){
                             Log.i("Login", "ok!");
+                            showUserList();
                         } else {
                             Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                         }
@@ -131,6 +138,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
           backgroundLayout.setOnClickListener(this);
 
           passwordEditText.setOnKeyListener(this);;
+
+//          ParseUser.getCurrentUser().logOut();
+
+          if(ParseUser.getCurrentUser() != null){
+              showUserList();
+          }
 
 
         ParseAnalytics.trackAppOpenedInBackground(getIntent());
