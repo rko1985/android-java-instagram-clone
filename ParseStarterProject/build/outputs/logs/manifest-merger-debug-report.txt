@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\4094495046e54dd6df34057ee4f2bb82\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\1daeb0d106261f7e7e79387a0d1239bf\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\f677d98bedb337002a0680eae481489c\AndroidManifest.xml:16:1-20:12
@@ -65,20 +65,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\russe
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\89b8154b3c278f625cdd2df34f202891\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\6b1ffa7691cbcdb1efbe5ed8495cc380\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\83b681c279b80b1830608b4c43a426b6\AndroidManifest.xml:17:1-31:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -141,7 +141,7 @@ ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\Par
 	android:name
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-33:19
+ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\4094495046e54dd6df34057ee4f2bb82\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\4094495046e54dd6df34057ee4f2bb82\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\russe\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\1daeb0d106261f7e7e79387a0d1239bf\AndroidManifest.xml:5:5-9:19
@@ -271,9 +271,13 @@ ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\Par
 	android:name
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
 activity#com.parse.starter.UserListActivity
-ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-63
+ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-54
 	android:name
 		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:19-51
 uses-sdk
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\russe\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
