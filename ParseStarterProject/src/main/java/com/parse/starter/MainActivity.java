@@ -127,6 +127,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+          setTitle("Instagram Clone");
+
           loginTextView = findViewById(R.id.loginTextView);
           loginTextView.setOnClickListener(this);
           usernameEditText = findViewById(R.id.usernameEditText);
@@ -139,7 +141,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
           passwordEditText.setOnKeyListener(this);;
 
-//          ParseUser.getCurrentUser().logOut();
+        //          ParseUser.getCurrentUser().logOut();
 
           if(ParseUser.getCurrentUser() != null){
               showUserList();
